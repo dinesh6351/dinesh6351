@@ -3,7 +3,7 @@
 - ✨I'm becoming in ...Data Science
 - 🌱 I’m currently learning ...BE CSE
 - 📫 How to reach me ...LinkedIn
-- 🤙 Linked Id: https://www.linkedin.com/in/dinesh-k-m-23aa731bb/
+- 🤙 LinkedIn Id: https://www.linkedin.com/in/dinesh-k-m-23aa731bb/
 
 <!---
 dinesh6351/dinesh6351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
